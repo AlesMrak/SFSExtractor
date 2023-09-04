@@ -1,0 +1,10 @@
+2023-09-04 19:21:41,954 [1] FATAL SFSExtractor.ExtractManager [(null)] - Exception==>System.DllNotFoundException: Unable to load DLL '..\rts.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+   at Editor.SFS.SFS.UnMountExtern(String path)
+   at Editor.SFS.SFS.UnMount(String path) in I:\Projects\SFSExtractor\SFSExtractor\Tow\SFS\SFS.cs:line 41
+   at Editor.Utils.CmdSfs.ExecCommand(String cmd, String param1, String param2) in I:\Projects\SFSExtractor\SFSExtractor\Tow\CmdSfs.cs:line 80
+   at SFSExtractor.ExtractManager.UnMount() in I:\Projects\SFSExtractor\SFSExtractor\Manager.cs:line 145
+2023-09-04 19:33:40,192 [1] FATAL SFSExtractor.ExtractManager [(null)] - Exception==>System.DllNotFoundException: Unable to load DLL '..\rts.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+   at Editor.SFS.SFS.UnMountExtern(String path)
+   at Editor.SFS.SFS.UnMount(String path) in I:\Projects\SFSExtractor\SFSExtractor\Tow\SFS\SFS.cs:line 41
+   at Editor.Utils.CmdSfs.ExecCommand(String cmd, String param1, String param2) in I:\Projects\SFSExtractor\SFSExtractor\Tow\CmdSfs.cs:line 80
+   at SFSExtractor.ExtractManager.UnMount() in I:\Projects\SFSExtractor\SFSExtractor\Manager.cs:line 145
