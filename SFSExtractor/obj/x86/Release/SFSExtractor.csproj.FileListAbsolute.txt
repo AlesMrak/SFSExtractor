@@ -1,0 +1,3 @@
+I:\Projects\SFSExtractor\SFSExtractor\bin\x86\Release\SFSExtractor.exe.config
+I:\Projects\SFSExtractor\SFSExtractor\obj\x86\Release\SFSExtractor.exe
+I:\Projects\SFSExtractor\SFSExtractor\obj\x86\Release\SFSExtractor.pdb
